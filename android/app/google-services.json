@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979694363870",
+    "project_id": "fir-otp-f79ae",
+    "storage_bucket": "fir-otp-f79ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979694363870:android:74691dcf1381b908008e4f",
+        "android_client_info": {
+          "package_name": "com.lingel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbeNybtyOEhanDkODkC9M-1G-EhCvShps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,57 @@
+export default {
+    
+    poppinsmedium : 'Poppins-Medium',
+    poppinslight:'Poppins-Light',
+    poppinsbold:'Poppins-Bold',
+    poppinsregular:'Poppins-Regular',
+    poppinsthin:'Poppins-Thin',
+    poppinssemibold:'Poppins-SemiBold',
+    
+    cbold:'Catamaran-Bold',
+    clight:'Catamaran-Light',
+    cmedium:'Catamaran-Medium',
+    cregular:'Catamaran-Regular',
+    csbold:'Catamaran-SemiBold',
+    cthin:'Catamaran-Thin',
+
+    nbold:'NunitoSans-Bold',
+    nlight:'NunitoSans-Light',
+    nregular:'NunitoSans-Regular',
+    nsbold:'NunitoSans-SemiBold',
+
+     sanserifllight:'sans-serif-light',
+     robo: 'Roboto',
+     arial:'Arial',
+     sansmedium: 'sans-serif-medium',
+     sanserif:'sans-serif',
+     
+     dbold:'FontAwesome',
+     dmedium:'DancingScript-Medium',
+     dregular:'DancingScript-Regular',
+     dsemibold:'DancingScript-SemiBold',
+
+     rblack:'Roboto-Black',
+     rblackitalic:'Roboto-BlackItalic',
+     rbold:'Roboto-Bold',
+     rbolditalic:'Roboto-BoldItalic',
+     ritalic:'Roboto-Italic',
+     rlight:'Roboto-Light',
+     rlightitraklic:'Roboto-LightItalic',
+     rmedium:'Roboto-Medium',
+     rmediumitalic:'Roboto-MediumItalic',
+     rregular:'Roboto-Regular',
+     rthin:'Roboto-Thin',
+     rthinitalic:'Roboto-ThinItalic',
+
+    emedium:'Emirates Medium',
+    hbold:'Helvetica-Bold',
+    hfont:'Helvetica',
+    hblack:'Helvetica-Black',
+    hbo:'Helvetica-BoldOblique',
+    hnb:'HelveticaNeue-Bold',
+    hmedium:'HelveticaBQ-Medium',
+    hc:'Helvetica',
+    hn:'HelveticaExt-No',
+    hf:'Helvetica-Fraction',
+
+}
